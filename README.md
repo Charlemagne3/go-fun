@@ -1,0 +1,2 @@
+# go-fun
+Go playground
